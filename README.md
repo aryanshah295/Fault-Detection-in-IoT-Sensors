@@ -73,7 +73,7 @@ The Internet of Things (IoT) is a transformative technology connecting devices e
 This project demonstrates the potential of deep learning in improving IoT sensor reliability by effectively detecting faults and anomalies. The integration of real-world and synthetic data provided robust training and testing frameworks, making the models suitable for real-time IoT applications.
 
 ### Team Members
--Aryan Shah: shah.aryanr@northeastern.edu
--Atir Shakhrelia: shakhrelia.a@northeastern.edu
--Jwal Shah: shah.jwalp@northeastern.edu
+- **Aryan Shah**: shah.aryanr@northeastern.edu
+- **Atir Shakhrelia**: shakhrelia.a@northeastern.edu
+- **Jwal Shah**: shah.jwalp@northeastern.edu
 
